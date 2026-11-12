@@ -2,6 +2,14 @@
 
 [English](README.md) | [한국어](README.ko.md)
 
+<p align="center">
+  <a href="https://gitreels-media.gitreels.workers.dev/reels/jakeb-5/they-are-looking-at-me/ko/v1/reel.mp4"><img src="https://gitreels.com/JakeB-5/they-are-looking-at-me.webp?lang=ko" alt="지금 다들 저를 쳐다보고 있어요 — 한국어 GitReels 미리보기" width="720"></a>
+</p>
+
+<p align="center">
+  <a href="https://gitreels-media.gitreels.workers.dev/reels/jakeb-5/they-are-looking-at-me/ko/v1/reel.mp4">이제 공포가 움직입니다 — 한국어 릴 · 클릭해서 재생</a> · <a href="https://gitreels.com/JakeB-5/they-are-looking-at-me">GitReels</a>
+</p>
+
 ### 데모는 죽었습니다. 회의실은 조용합니다. 이제 당신의 마우스 커서가 주인공입니다.
 
 > “제발 고쳐 주세요. 지금 다들 저를 쳐다보고 있어요.”

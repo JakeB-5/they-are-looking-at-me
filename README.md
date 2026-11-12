@@ -2,6 +2,14 @@
 
 [English](README.md) | [한국어](README.ko.md)
 
+<p align="center">
+  <a href="https://gitreels-media.gitreels.workers.dev/reels/jakeb-5/they-are-looking-at-me/ko/v1/reel.mp4"><img src="https://gitreels.com/JakeB-5/they-are-looking-at-me.webp?lang=ko" alt="They Are Looking at Me — Korean GitReels preview" width="720"></a>
+</p>
+
+<p align="center">
+  <a href="https://gitreels-media.gitreels.workers.dev/reels/jakeb-5/they-are-looking-at-me/ko/v1/reel.mp4">WATCH THE PANIC IN MOTION — Korean reel · Click to play</a> · <a href="https://gitreels.com/JakeB-5/they-are-looking-at-me">GitReels</a>
+</p>
+
 ### THE DEMO IS DEAD. THE ROOM IS SILENT. YOUR CURSOR IS NOW THE MAIN CHARACTER.
 
 > "please fix it, they are looking at me right now."
