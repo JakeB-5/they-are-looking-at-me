@@ -4,6 +4,8 @@
 
 <p align="center">
   <a href="https://gitreels-media.gitreels.workers.dev/reels/jakeb-5/they-are-looking-at-me/v1/reel.mp4"><img src="https://gitreels.com/JakeB-5/they-are-looking-at-me.webp?lang=en" alt="They Are Looking at Me — English GitReels preview" width="720"></a>
+  <br>
+  <a href="https://gitreels.com"><img src="https://gitreels.com/badge.svg" alt="Made with GitReels" height="24"></a>
 </p>
 
 <p align="center">
