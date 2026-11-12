@@ -1,0 +1,4 @@
+interface:
+  display_name: "They Are Looking at Me"
+  short_description: "Emergency fixes for extremely public failures"
+  default_prompt: "Use $they-are-looking-at-me to restore the current broken workflow with the smallest reversible fix and verify it works."
