@@ -1,32 +1,47 @@
-# They Are Looking at Me
+# THEY ARE LOOKING AT ME
+
+### THE DEMO IS DEAD. THE ROOM IS SILENT. YOUR CURSOR IS NOW THE MAIN CHARACTER.
 
 > "please fix it, they are looking at me right now."
 
-An emergency recovery skill for **Codex** and **Claude Code**.
+An emergency recovery skill for **Codex** and **Claude Code**, for the exact moment your $300,000 engineering career becomes a loading spinner.
 
-For when the demo is broken, the app won't start, and your audience has developed an intense interest in your terminal.
+You said, “Let me just share my screen.”
 
-**Make the critical path work. Verify it. Explain the temporary mess later.**
+**A CATASTROPHIC SENTENCE. A HISTORIC MISCALCULATION.**
 
-## The origin story
+The app is down. The CEO has leaned forward. Someone from sales just said, “It worked yesterday,” with the confidence of a person who will never open a terminal. Your mouse is moving in tiny circles. Nobody knows why. Neither do you.
+
+You have eleven browser tabs, four AI subscriptions, and absolutely nowhere to hide.
+
+**DEPLOY THE EMERGENCY MARKDOWN. RESTORE THE CRITICAL PATH. PROVIDE ACTUAL EVIDENCE OF LIFE.**
+
+## THE SACRED SCREENSHOT
 
 ![Meme depicting an alleged termination email, with the plea: please fix it, they are looking at me right now.](assets/they-are-looking-at-me.jpg)
 
 This project treats the supplied screenshot as a meme, not an authenticated employment record. Its origin and authenticity are unverified. No affiliation with or endorsement by OpenAI, Anthropic, or Google is implied.
 
-The email may be fake. The feeling is familiar.
+The email may be fake. **THE FULL-BODY EXPERIENCE OF A ROOM WATCHING YOU TYPE `npm run dev` FOR THE SEVENTH TIME IS DEVASTATINGLY REAL.**
 
-## What it does
+## WHAT HAPPENS WHEN YOU PULL THE LEVER
 
-The skill steers your coding agent toward a small, reversible recovery: inspect the immediate failure, choose a plausible fix or rollback, apply it, and exercise the path that was broken. If full recovery is out of reach, it reports the actual blocker or an honest degraded state.
+Your agent receives one deeply urgent mission: **GET THE THING THAT MATTERS WORKING BEFORE THE SILENCE DEVELOPS ITS OWN ORG CHART.**
 
-It keeps temporary workarounds visible and leaves a way to undo the change. It does not grant extra permissions, bypass security, or turn a failed request into a pretend success.
+1. **LOCATE THE ACTUAL FIRE.** Read the error. Inspect the relevant evidence. The entire repository does not need a philosophical interrogation while the projector is on.
+2. **APPLY THE SMALLEST PLAUSIBLE MIRACLE.** A narrow fix. A compatible rollback. An existing flag for the optional widget that has apparently declared war on the dashboard.
+3. **CHECK FOR A PULSE.** Exercise the broken path. “It compiles” is a beautiful sentence. The button still needs to work.
+4. **LEAVE AN ESCAPE HATCH.** Say what changed, what was verified, how to undo it, and which temporary compromise is now Future You's calendar event.
 
-No runtime dependencies, API keys, hooks, or extra MCP servers. Just one shared instruction set for both agents.
+If recovery is blocked, the agent reports the blocker. If only part of the system works, it says so. We have reached an extraordinary level of panic, but we have not reached “return HTTP 200 and hope nobody notices.”
 
-## Install
+Permissions still apply. Authentication stays on. Your database does not become a sacrificial offering. The skill tells the agent to keep the fix small and the evidence real.
 
-Clone this repository once:
+**ZERO runtime dependencies. ZERO extra API keys. ZERO hooks. ZERO additional MCP servers.** One shared instruction set. An unreasonable amount of emotional context.
+
+## INSTALL BEFORE SOMEONE SAYS “ANY UPDATES?”
+
+Acquire the emergency markdown:
 
 ```sh
 git clone https://github.com/JakeB-5/they-are-looking-at-me.git
@@ -35,7 +50,7 @@ cd they-are-looking-at-me
 
 Run either or both installation blocks from the cloned repository. They install for your user account and stop if that skill already exists, so a previous installation is not silently overwritten.
 
-### Codex
+### CODEX: SUMMON THE FIRST RESPONDER
 
 ```sh
 mkdir -p "$HOME/.agents/skills"
@@ -46,13 +61,13 @@ else
 fi
 ```
 
-Start a new Codex session and invoke:
+Start a new Codex session. Transmit the distress signal:
 
 ```text
 $they-are-looking-at-me The demo crashes when I click Sign in. Please fix it, they are looking at me right now.
 ```
 
-### Claude Code
+### CLAUDE CODE: OPEN THE OTHER EMERGENCY EXIT
 
 ```sh
 mkdir -p "$HOME/.claude/skills"
@@ -63,7 +78,7 @@ else
 fi
 ```
 
-Start a new Claude Code session and invoke:
+Start a new Claude Code session. Release the same cry into a different terminal:
 
 ```text
 /they-are-looking-at-me The demo crashes when I click Sign in. Please fix it, they are looking at me right now.
@@ -73,21 +88,23 @@ For a project-only installation, copy the skill folder into your target project'
 
 Installation references: [OpenAI skills documentation](https://developers.openai.com/codex/skills) and [Claude Code skills documentation](https://code.claude.com/docs/en/skills).
 
-## Typical requests
+## SELECT YOUR PERSONAL APOCALYPSE
 
 ```text
-The dev server stopped starting after the last dependency change. I present in five minutes.
+The dev server stopped starting after the last dependency change. I present in five minutes. The HDMI cable is already in my laptop. Restore startup.
 ```
 
 ```text
-Checkout started failing after the last release. Find the smallest safe recovery. Do not deploy yet.
+Checkout started failing after the last release. The revenue chart has become modern art. Find the smallest safe recovery. Do not deploy yet.
 ```
 
 ```text
-The optional chart widget crashes the entire dashboard. Get the dashboard usable again.
+The optional chart widget crashes the entire dashboard. Twelve executives are watching one rectangle fail to exist. Get the dashboard usable again.
 ```
 
-The agent should return something concrete:
+## THE RECEIPT THAT MAY ALLOW YOUR SHOULDERS TO DESCEND
+
+The agent should return a compact, concrete report. Imagine reading this while remembering how breathing works:
 
 ```text
 Status: Working locally; production has not been changed.
@@ -97,10 +114,14 @@ Undo: Reapply the chart import change after fixing compatibility.
 Later: Upgrade the chart integration separately.
 ```
 
-That is an illustrative report, not a claim that this repository repaired an incident. A skill guides an agent's decisions; recovery still depends on the code, available tools, access, and verification.
+This is an illustrative report, not a real incident result. The skill guides the agent; actual recovery depends on the code, tools, access, and checks. **MARKDOWN CANNOT CONTRACTUALLY GUARANTEE YOUR REDEMPTION.**
 
-## License
+## THE LEGAL DEPARTMENT HAS ENTERED THE ROOM
 
 The original skill instructions and repository text are [MIT licensed](LICENSE). The supplied meme image is excluded from that license; its original authorship and rights are unknown.
 
-Salary not included. Eye contact unavoidable.
+---
+
+**SALARY NOT INCLUDED. EYE CONTACT UNAVOIDABLE.**
+
+If this gets your demo working again, please take one full breath before announcing that you are ready for questions.
