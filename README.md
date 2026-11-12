@@ -1,5 +1,7 @@
 # THEY ARE LOOKING AT ME
 
+[English](README.md) | [한국어](README.ko.md)
+
 ### THE DEMO IS DEAD. THE ROOM IS SILENT. YOUR CURSOR IS NOW THE MAIN CHARACTER.
 
 > "please fix it, they are looking at me right now."
